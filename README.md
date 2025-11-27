@@ -10,3 +10,4 @@ Most Android developers focus on mobile apps, but Android TV opens up an entirel
 - [Part-2:- Android TV OS overview & supported devices](https://medium.com/@prahaladsharma4u/android-tv-os-overview-supported-devices-ff1b3776d0c6) - Android TV OS overview & supported devices.
 - [Part-3:- TV UX principles (10-foot UI design, D-Pad navigation, minimal interactions)](https://medium.com/@prahaladsharma4u/tv-ux-principles-10-foot-ui-design-d-pad-navigation-minimal-interactions-part-3-cc165d2ed49c) - TV UX principles (10-foot UI design, D-Pad navigation, minimal interactions).
 - [Part-4: Android TV Sample App](https://github.com/prahaladsharma/AndroidTV_App) - Android TV Sample App
+- [Part-5: Android TV — D-Pad Navigation Handling (Jetpack Compose) Part-5](https://medium.com/@prahaladsharma4u/android-tv-d-pad-navigation-handling-jetpack-compose-part-5-2293feb4565c?postPublishedType=initial) - Android TV — D-Pad Navigation Handling (Jetpack Compose) Part-5
