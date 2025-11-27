@@ -51,6 +51,7 @@ dependencies {
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)
     implementation(libs.androidx.material3)
+    implementation(libs.androidx.compose.foundation)
 
     // TV-specific Compose libraries (replace with current AndroidX tv artifacts)
     implementation(libs.androidx.tv.foundation)
