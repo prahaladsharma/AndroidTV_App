@@ -61,11 +61,11 @@ dependencies {
     implementation(libs.androidx.lifecycle.viewmodel)
 
     // ExoPlayer
-    //implementation(libs.androidx.exoPlayer)
+    implementation(libs.androidx.exoPlayer)
     implementation(libs.androidx.media3.exoplayer)
     implementation(libs.androidx.media3.ui)
     implementation(libs.androidx.media3.session)
-
+    implementation(libs.androidx.media3.exoplayer.hls)
 
     //Coil for image loading
     implementation(libs.coil)
